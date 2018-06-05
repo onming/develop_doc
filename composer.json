@@ -1,0 +1,19 @@
+{
+    "name": "xuemingzhang/develop_doc",
+    "type": "project",
+    "description": "A development document generation framework for program use",
+    "keywords": ["develop_doc"],
+    "homepage": "https://github.com/xuemingzhang/develop_doc",
+    "version":"v1.0.0",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "xuemingzhang",
+            "email": "170893265@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
