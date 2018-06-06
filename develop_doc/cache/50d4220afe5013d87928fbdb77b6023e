@@ -1,7 +1,6 @@
 <?php
 
-class Gateway extends App_Controller
-{
+class Gateway {
 
     function __construct()
     {
